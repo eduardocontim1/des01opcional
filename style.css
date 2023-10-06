@@ -1,0 +1,72 @@
+#hero {
+  text-align: center;
+  margin: auto;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: #828282;
+}
+
+h1 {
+  font-size: 32px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 500;
+  color: #3F3D56;
+  margin-bottom: 16px;
+}
+
+.img1 {
+  text-align: center;
+  margin-top: 64px;
+  margin-bottom: 32px;
+}
+
+
+.footer {
+  color: #3F3D56;
+
+  margin: auto;
+  font-weight: 700;
+  text-decoration: none;
+
+
+}
+
+.footer a+a {
+  margin-left: 42px;
+}
+
+.span {
+  color: rgb(255, 0, 183);
+}
+
+span {
+  font-weight: 700;
+  line-height: 22px;
+}
+
+.paragrafo {
+  font-size: 15px;
+}
+
+.paragrafo1 {
+  margin-bottom: 32px;
+}
+
+.espaco {
+  margin-bottom: 64px;
+
+}
+
+.item {
+
+  text-decoration: none;
+  color: #3F3D56;
+}
+
+.wave {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
